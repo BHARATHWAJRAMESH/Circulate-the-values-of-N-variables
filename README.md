@@ -18,10 +18,12 @@ Anaconda - Python 3.7
 ### Step 6:end the program
 
 ## Program:
+```
 def circulate():
     a=eval(input())
     n=int(input())
     print("After circulating the values are:",a[n:]+a[:n])
+```    
 
 ## Output:
 ![ex01 b opbharath](https://user-images.githubusercontent.com/119394248/215323750-8863df1c-cfb4-46a8-bef3-b52ff796bc9f.png)
